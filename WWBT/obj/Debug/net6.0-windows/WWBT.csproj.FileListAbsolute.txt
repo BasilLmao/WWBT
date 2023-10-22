@@ -1,0 +1,16 @@
+C:\Users\basil\source\repos\WWBT\WWBT\bin\Debug\net6.0-windows\WWBT.exe
+C:\Users\basil\source\repos\WWBT\WWBT\bin\Debug\net6.0-windows\WWBT.deps.json
+C:\Users\basil\source\repos\WWBT\WWBT\bin\Debug\net6.0-windows\WWBT.runtimeconfig.json
+C:\Users\basil\source\repos\WWBT\WWBT\bin\Debug\net6.0-windows\WWBT.dll
+C:\Users\basil\source\repos\WWBT\WWBT\bin\Debug\net6.0-windows\WWBT.pdb
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\WWBT.Form1.resources
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\WWBT.csproj.GenerateResource.cache
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\WWBT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\WWBT.AssemblyInfoInputs.cache
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\WWBT.AssemblyInfo.cs
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\WWBT.csproj.CoreCompileInputs.cache
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\WWBT.dll
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\refint\WWBT.dll
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\WWBT.pdb
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\WWBT.genruntimeconfig.cache
+C:\Users\basil\source\repos\WWBT\WWBT\obj\Debug\net6.0-windows\ref\WWBT.dll
